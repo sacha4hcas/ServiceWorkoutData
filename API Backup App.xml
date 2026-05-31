@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-05-30 14:32:46">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>SDK Auto Backup API</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>0c5b1e27c30103d0635598fdd4013122</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-30 14:32:45</sys_created_on>
+<sys_id>556bde27c30103d0635598fdd4013160</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-30 14:32:45</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_cbf96a1fc3818f90635598fdd4013157</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-29 20:58:39</sys_created_on><sys_id>cbf96a1fc3818f90635598fdd4013157</sys_id><sys_mod_count>0</sys_mod_count><sys_name>.admin</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_security_acl display_value="">fdf92a1fc3818f90635598fdd401319b</sys_security_acl><sys_update_name>sys_security_acl_role_cbf96a1fc3818f90635598fdd4013157</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-29 20:58:39</sys_updated_on><sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-706965812</payload_hash>
+<remote_update_set display_value="SDK Auto Backup API">556bde27c30103d0635598fdd4013160</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-30 14:32:45</sys_created_on>
+<sys_id>116bde27c30103d0635598fdd4013162</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e75882dc00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-30 14:32:45</sys_updated_on>
+<table>fdf92a1fc3818f90635598fdd401319b</table>
+<target_name>.admin</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>982a6e1f3b818f9072549bf0df3827bf</update_guid>
+<update_guid_history>982a6e1f3b818f9072549bf0df3827bf:-706965812</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ws_query_parameter_dcea6a9fc3818f90635598fdd4013147</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_query_parameter"><sys_ws_query_parameter action="INSERT_OR_UPDATE"><example_value/><name>target_scope</name><required>false</required><short_description/><sys_class_name>sys_ws_query_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-29 21:02:04</sys_created_on><sys_id>dcea6a9fc3818f90635598fdd4013147</sys_id><sys_mod_count>1</sys_mod_count><sys_name>target_scope</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ws_query_parameter_dcea6a9fc3818f90635598fdd4013147</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-29 21:06:42</sys_updated_on><web_service_definition display_value="LoadDataToApp">0ba96edbc3818f90635598fdd40131af</web_service_definition></sys_ws_query_parameter></record_update>]]></payload>
+<payload_hash>-1207823380</payload_hash>
+<remote_update_set display_value="SDK Auto Backup API">556bde27c30103d0635598fdd4013160</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-30 14:32:45</sys_created_on>
+<sys_id>156bde27c30103d0635598fdd4013163</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e758f8b7c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-30 14:32:45</sys_updated_on>
+<table/>
+<target_name>target_scope</target_name>
+<type>Scripted REST Query Parameter</type>
+<update_domain>global</update_domain>
+<update_guid>dafbae1386c18f90762b920981344d99</update_guid>
+<update_guid_history>dafbae1386c18f90762b920981344d99:-1207823380,5eeaee5f4d818f9011dc69e48d87642e:-1774149808</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ws_definition_0ba96edbc3818f90635598fdd40131af</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_definition"><sys_ws_definition action="INSERT_OR_UPDATE"><active>true</active><base_uri>/api/1974893/load_data_to_app</base_uri><consumes>application/json,application/xml,text/xml</consumes><consumes_customized>false</consumes_customized><default_version>No active default version</default_version><doc_link/><enforce_acl>fdf92a1fc3818f90635598fdd401319b</enforce_acl><is_versioned>false</is_versioned><name>LoadDataToApp</name><namespace>1974893</namespace><produces>application/json,application/xml,text/xml</produces><produces_customized>false</produces_customized><service_id>load_data_to_app</service_id><short_description/><sys_class_name>sys_ws_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-29 20:58:43</sys_created_on><sys_id>0ba96edbc3818f90635598fdd40131af</sys_id><sys_mod_count>0</sys_mod_count><sys_name>LoadDataToApp</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ws_definition_0ba96edbc3818f90635598fdd40131af</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-29 20:58:43</sys_updated_on></sys_ws_definition></record_update>]]></payload>
+<payload_hash>-371299442</payload_hash>
+<remote_update_set display_value="SDK Auto Backup API">556bde27c30103d0635598fdd4013160</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-30 14:32:45</sys_created_on>
+<sys_id>556bde27c30103d0635598fdd4013162</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e75883e030000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-30 14:32:45</sys_updated_on>
+<table/>
+<target_name>LoadDataToApp</target_name>
+<type>Scripted REST API</type>
+<update_domain>global</update_domain>
+<update_guid>192a6e1fe8818f90743111d4c38c3fd8</update_guid>
+<update_guid_history>192a6e1fe8818f90743111d4c38c3fd8:-371299442</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ws_query_parameter_map_96da2a9fc3818f90635598fdd4013140</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_query_parameter_map"><sys_ws_query_parameter_map action="INSERT_OR_UPDATE"><sys_class_name>sys_ws_query_parameter_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-29 21:02:05</sys_created_on><sys_id>96da2a9fc3818f90635598fdd4013140</sys_id><sys_mod_count>0</sys_mod_count><sys_name>dcea6a9fc3818f90635598fdd4013147</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ws_query_parameter_map_96da2a9fc3818f90635598fdd4013140</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-29 21:02:05</sys_updated_on><web_service_operation display_value="unload">dc3a625fc3818f90635598fdd4013121</web_service_operation><web_service_query_parameter display_value="target-scope">dcea6a9fc3818f90635598fdd4013147</web_service_query_parameter></sys_ws_query_parameter_map></record_update>]]></payload>
+<payload_hash>-1638945924</payload_hash>
+<remote_update_set display_value="SDK Auto Backup API">556bde27c30103d0635598fdd4013160</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-30 14:32:45</sys_created_on>
+<sys_id>596bde27c30103d0635598fdd4013163</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e758b53430000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-30 14:32:45</sys_updated_on>
+<table/>
+<target_name>dcea6a9fc3818f90635598fdd4013147</target_name>
+<type>Scripted REST Query Parameter Associatio</type>
+<update_domain>global</update_domain>
+<update_guid>76eaaa9f51818f9097a8a78587b54665</update_guid>
+<update_guid_history>76eaaa9f51818f9097a8a78587b54665:-1638945924</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_6631261bc3418f90635598fdd4013172</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.LoadDataToApp&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;mobile_callable&gt;false&lt;/mobile_callable&gt;&lt;name&gt;LoadDataToApp&lt;/name&gt;&lt;sandbox_callable&gt;false&lt;/sandbox_callable&gt;&lt;script&gt;&lt;![CDATA[var LoadDataToApp = Class.create();
+LoadDataToApp.getAppId = function(scope) {
+    var grApp = new GlideRecord("sys_app");
+	if(grApp.get("scope", scope))
+		return grApp.getUniqueValue();
+	else return "";
+};
+LoadDataToApp.getDataTables = function(sourceScope) {
+    //get all data tables of sourceScope App
+	var grTable = new GlideRecord("sys_db_object");
+	grTable.addQuery("sys_scope", LoadDataToApp.getAppId(sourceScope));
+	//exclude import set table
+	grTable.addQuery("super_class!=099be20a183232108bb255f46a373a61^ORsuper_class=NULL");
+	//exclude application files
+	grTable.addQuery("super_class!=c21b2202183232108bb255f46a373aa2^ORsuper_class=NULL");
+
+	var dataTables = [];
+
+	grTable.query();
+	while(grTable.next()){
+		dataTables.push(grTable.name.toString());
+	}
+	return dataTables;
+};
+LoadDataToApp.loadData = function(sourceScope, targetScope){
+	targetScope = targetScope || sourceScope;
+	//backup all data tables
+	var returnData = {};
+	LoadDataToApp.getDataTables(sourceScope).forEach(function(tableName){
+		returnData[tableName] = new LoadDataToApp(tableName, targetScope).begin();
+	});
+	return returnData;
+};
+
+LoadDataToApp.prototype = {
+    initialize: function(table_name, targetScope) {
+        this.table_name = table_name;
+        this.applicationId = LoadDataToApp.getAppId(targetScope);
+    },
+
+
+
+    begin: function() {
+        var gr = new GlideRecord(this.table_name);
+
+        if (this.sys_id_list) {
+            var selectedRecords = this.sys_id_list.split(',');
+            gr.addQuery('sys_id', selectedRecords);
+        }
+        if (this.query) {
+            gr.addQuery(this.query);
+        }
+        gr.query();
+
+        var recCntr = 0;
+        var invRecCntr = 0;
+		var alreadyExistsCount = 0;
+        while (gr.next()) {
+            if (!this.metadataAlreadyExists(gr)) {
+                this.addMetadata(gr);
+                recCntr++;
+            } else {
+				alreadyExistsCount++
+                if (this.overwriteMetadata(gr))
+                    invRecCntr++;
+            }
+        }
+		gs.info("Already exists : " + alreadyExistsCount);
+        return {
+            "created": recCntr,
+            "updated": invRecCntr
+        };
+    },
+
+    metadataAlreadyExists: function(gr) {
+        var output = new GlideRecord('sys_metadata_link');
+		output.addQuery("documentkey", gr.sys_id);
+		output.addQuery("sys_scope", this.applicationId);
+		output.addQuery("directory", "update");
+		output.addQuery("tablename", this.table_name);
+        output.query();
+		return output.next();
+    },
+
+    addMetadata: function(linkedRecord) {
+        var payloadStr = gs.unloadRecordToXML(linkedRecord, true);
+        var output = new GlideRecord('sys_metadata_link');
+        output.query();
+        output.initialize();
+		output.sys_scope = this.applicationId;
+        output.payload = payloadStr;
+        output.documentkey = linkedRecord.sys_id;
+        output.tablename = this.table_name;
+        output.sys_name = linkedRecord.getDisplayValue();
+        output.directory = "update";
+        output.insert();
+    },
+
+    overwriteMetadata: function(linkedRecord) {
+        var payloadStr = gs.unloadRecordToXML(linkedRecord, true);
+        var output = new GlideRecord('sys_metadata_link');
+        output.addQuery('documentkey', linkedRecord.sys_id);
+        output.addQuery('sys_scope', this.applicationId);
+        output.addQuery('tablename', this.table_name);
+        output.addQuery('directory', "update");
+        output.query();
+
+        if (output.next()) {
+            output.payload = payloadStr;
+            output.sys_name = linkedRecord.getDisplayValue();
+            return output.update();
+        }
+
+        return null;
+    },
+
+    type: 'LoadDataToApp'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-29 20:19:45&lt;/sys_created_on&gt;&lt;sys_id&gt;6631261bc3418f90635598fdd4013172&lt;/sys_id&gt;&lt;sys_mod_count&gt;11&lt;/sys_mod_count&gt;&lt;sys_name&gt;LoadDataToApp&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_6631261bc3418f90635598fdd4013172&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-29 20:54:59&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;sys_es_latest_script action="INSERT_OR_UPDATE"&gt;&lt;id&gt;6631261bc3418f90635598fdd4013172&lt;/id&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-29 20:19:45&lt;/sys_created_on&gt;&lt;sys_id&gt;22312e1bc3418f90635598fdd401313f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-29 20:19:45&lt;/sys_updated_on&gt;&lt;table&gt;sys_script_include&lt;/table&gt;&lt;use_es_latest&gt;true&lt;/use_es_latest&gt;&lt;/sys_es_latest_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-705362405</payload_hash>
+<remote_update_set display_value="SDK Auto Backup API">556bde27c30103d0635598fdd4013160</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-30 14:32:45</sys_created_on>
+<sys_id>5d6bde27c30103d0635598fdd4013160</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e7584d3290000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-30 14:32:45</sys_updated_on>
+<table/>
+<target_name>LoadDataToApp</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>3e49a21faa418f900f172bd7fb82267c</update_guid>
+<update_guid_history>3e49a21faa418f900f172bd7fb82267c:-705362405,09a82e1b44818f900a500dd6e98ac7aa:-452473155,2867e257dd818f90d725e351fb265b81:-112392040,bee6a257df818f90e3124f9c39849862:-886406747,68e6ea1741818f90d35907f32ec47ef8:1785352341,15952a53a9818f90695cbeb7ee203cc1:-1729689509,cf75aadf29418f900c3f942a5a649f3d:-1161270268,ba35eadf8c418f900ba077f7088bfa0a:500889646,8db4a6df28418f909631cc1f7c9647ab:-171358236,47442e9f66418f902790b0d038948835:1565953850,1ff3a29f64418f907521553944e29d91:-320918880,22312e1bf4418f90fb36e91f8e59f13d:-479221055</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ws_operation_dc3a625fc3818f90635598fdd4013121</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ws_operation"&gt;&lt;sys_ws_operation action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;consumes&gt;application/json,application/xml,text/xml&lt;/consumes&gt;&lt;consumes_customized&gt;false&lt;/consumes_customized&gt;&lt;default_operation_uri/&gt;&lt;enforce_acl/&gt;&lt;http_method&gt;GET&lt;/http_method&gt;&lt;name&gt;unload&lt;/name&gt;&lt;operation_script&gt;&lt;![CDATA[(function process(/*RESTAPIRequest*/ request, /*RESTAPIResponse*/ response) {
+
+	//return request.queryParams;
+    return LoadDataToApp.loadData(
+		request.queryParams.source_scope[0], 
+		request.queryParams.target_scope[0]
+	);
+
+})(request, response);]]&gt;&lt;/operation_script&gt;&lt;operation_uri&gt;/api/1974893/load_data_to_app&lt;/operation_uri&gt;&lt;produces&gt;application/json,application/xml,text/xml&lt;/produces&gt;&lt;produces_customized&gt;false&lt;/produces_customized&gt;&lt;relative_path&gt;/&lt;/relative_path&gt;&lt;request_example/&gt;&lt;requires_acl_authorization&gt;true&lt;/requires_acl_authorization&gt;&lt;requires_authentication&gt;true&lt;/requires_authentication&gt;&lt;requires_snc_internal_role&gt;true&lt;/requires_snc_internal_role&gt;&lt;short_description/&gt;&lt;sys_class_name&gt;sys_ws_operation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-29 20:59:20&lt;/sys_created_on&gt;&lt;sys_id&gt;dc3a625fc3818f90635598fdd4013121&lt;/sys_id&gt;&lt;sys_mod_count&gt;8&lt;/sys_mod_count&gt;&lt;sys_name&gt;unload&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ws_operation_dc3a625fc3818f90635598fdd4013121&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-29 21:17:26&lt;/sys_updated_on&gt;&lt;web_service_definition display_value="LoadDataToApp"&gt;0ba96edbc3818f90635598fdd40131af&lt;/web_service_definition&gt;&lt;web_service_version/&gt;&lt;/sys_ws_operation&gt;&lt;sys_es_latest_script action="INSERT_OR_UPDATE"&gt;&lt;id&gt;dc3a625fc3818f90635598fdd4013121&lt;/id&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-29 20:59:20&lt;/sys_created_on&gt;&lt;sys_id&gt;5e4a661fc3818f90635598fdd4013123&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-29 20:59:20&lt;/sys_updated_on&gt;&lt;table&gt;sys_ws_operation&lt;/table&gt;&lt;use_es_latest&gt;true&lt;/use_es_latest&gt;&lt;/sys_es_latest_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>989123404</payload_hash>
+<remote_update_set display_value="SDK Auto Backup API">556bde27c30103d0635598fdd4013160</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-30 14:32:45</sys_created_on>
+<sys_id>996bde27c30103d0635598fdd4013162</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e759961220000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-30 14:32:45</sys_updated_on>
+<table/>
+<target_name>unload</target_name>
+<type>Scripted REST Resource</type>
+<update_domain>global</update_domain>
+<update_guid>ab6eaa13c2058f90b79f8513273f348b</update_guid>
+<update_guid_history>ab6eaa13c2058f90b79f8513273f348b:989123404,a54eeedfa6c18f90d845e82e0fd88343:-187947086,d03da2d334c18f9095eeacc3462d80c3:2025581845,ca0c22533fc18f906186e7105563f98c:-2025670808,83cb261375c18f909ea6e269ca213da3:182460620,3e9ba21315c18f90278a0e70396eacf8:1605340468,835baadf18818f90876ec0f8b84f2ab4:791678402,474b2adfee818f90fd5221df2fc5cb5e:-970542136,664a265fc0818f903ce8a2ba5765ab22:-363980364</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ws_query_parameter_map_b09aae5fc3818f90635598fdd40131cc</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_query_parameter_map"><sys_ws_query_parameter_map action="INSERT_OR_UPDATE"><sys_class_name>sys_ws_query_parameter_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-29 21:01:05</sys_created_on><sys_id>b09aae5fc3818f90635598fdd40131cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>c39a229fc3818f90635598fdd401316b</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ws_query_parameter_map_b09aae5fc3818f90635598fdd40131cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-29 21:01:05</sys_updated_on><web_service_operation display_value="unload">dc3a625fc3818f90635598fdd4013121</web_service_operation><web_service_query_parameter display_value="source-scope">c39a229fc3818f90635598fdd401316b</web_service_query_parameter></sys_ws_query_parameter_map></record_update>]]></payload>
+<payload_hash>225118012</payload_hash>
+<remote_update_set display_value="SDK Auto Backup API">556bde27c30103d0635598fdd4013160</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-30 14:32:45</sys_created_on>
+<sys_id>9d6bde27c30103d0635598fdd4013163</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e758a68ed0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-30 14:32:45</sys_updated_on>
+<table/>
+<target_name>c39a229fc3818f90635598fdd401316b</target_name>
+<type>Scripted REST Query Parameter Associatio</type>
+<update_domain>global</update_domain>
+<update_guid>c8baa29f82818f907c629710a78843bf</update_guid>
+<update_guid_history>c8baa29f82818f907c629710a78843bf:225118012</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_fdf92a1fc3818f90635598fdd401319b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>load-data-to-app</name><operation display_value="execute">execute</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-29 20:58:39</sys_created_on><sys_id>fdf92a1fc3818f90635598fdd401319b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>load-data-to-app</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_fdf92a1fc3818f90635598fdd401319b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-29 20:58:39</sys_updated_on><type display_value="REST_Endpoint">REST_Endpoint</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-574275174</payload_hash>
+<remote_update_set display_value="SDK Auto Backup API">556bde27c30103d0635598fdd4013160</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-30 14:32:45</sys_created_on>
+<sys_id>d96bde27c30103d0635598fdd4013161</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e75882e380000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-30 14:32:45</sys_updated_on>
+<table>load-data-to-app</table>
+<target_name>load-data-to-app</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>582a6e1f67818f90e11792841e6c11c9</update_guid>
+<update_guid_history>582a6e1f67818f90e11792841e6c11c9:-574275174</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ws_query_parameter_c39a229fc3818f90635598fdd401316b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_query_parameter"><sys_ws_query_parameter action="INSERT_OR_UPDATE"><example_value/><name>source_scope</name><required>true</required><short_description/><sys_class_name>sys_ws_query_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-05-29 21:01:03</sys_created_on><sys_id>c39a229fc3818f90635598fdd401316b</sys_id><sys_mod_count>2</sys_mod_count><sys_name>source_scope</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ws_query_parameter_c39a229fc3818f90635598fdd401316b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-05-29 21:06:47</sys_updated_on><web_service_definition display_value="LoadDataToApp">0ba96edbc3818f90635598fdd40131af</web_service_definition></sys_ws_query_parameter></record_update>]]></payload>
+<payload_hash>-1088712145</payload_hash>
+<remote_update_set display_value="SDK Auto Backup API">556bde27c30103d0635598fdd4013160</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-05-30 14:32:45</sys_created_on>
+<sys_id>dd6bde27c30103d0635598fdd4013162</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e758f9efb0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-05-30 14:32:45</sys_updated_on>
+<table/>
+<target_name>source_scope</target_name>
+<type>Scripted REST Query Parameter</type>
+<update_domain>global</update_domain>
+<update_guid>93fbee131fc18f907a52245577769093</update_guid>
+<update_guid_history>93fbee131fc18f907a52245577769093:-1088712145,82da6a1ff9818f9085a4f04c5e54fa3c:1051111535,a7aaa29f70818f9047cb059a777dae8f:-819980060</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c135448ec3458b1041fbb275e401312a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_776055_snworkout_m2m_exercice_session">
+    <x_776055_snworkout_m2m_exercice_session action="INSERT_OR_UPDATE">
+        <end>2026-05-25 11:46:20</end>
+        <exercice display_value="L-sit dynamique 2 jambes">122307df47f40f10f408cbb9316d4376</exercice>
+        <order/>
+        <session display_value="Created 2026-05-25 04:24:20">70504c06c3458b1041fbb275e401310c</session>
+        <start>2026-05-25 11:45:40</start>
+        <state>done</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-25 11:45:40</sys_created_on>
+        <sys_id>c135448ec3458b1041fbb275e401312a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-25 11:46:20</sys_updated_on>
+    </x_776055_snworkout_m2m_exercice_session>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 20:41:09</sys_created_on>
+        <sys_id>c02662d3c3818f90635598fdd4013124</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>70504c06c3458b1041fbb275e401310c</sys_name>
+        <sys_package display_value="ServiceWorkoutData" source="x_1974893_servic_0">e3c56293c3818f90635598fdd4013196</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceWorkoutData">e3c56293c3818f90635598fdd4013196</sys_scope>
+        <sys_update_name>sys_metadata_link_c02662d3c3818f90635598fdd4013124</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 20:41:09</sys_updated_on>
+        <tablename>x_776055_snworkout_m2m_exercice_session</tablename>
+    </sys_metadata_link>
+</record_update>

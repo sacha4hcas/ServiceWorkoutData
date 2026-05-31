@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>48eebc0ec30d8b1041fbb275e40131d2</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_776055_snworkout_m2m_exercice_session">
+    <x_776055_snworkout_m2m_exercice_session action="INSERT_OR_UPDATE">
+        <end>2026-05-25 15:58:48</end>
+        <exercice display_value="Barre hold">122307df47f40f10f408cbb9316d437d</exercice>
+        <order/>
+        <session display_value="Created 2026-05-25 08:40:06">17da78c2c30d8b1041fbb275e40131e4</session>
+        <start>2026-05-25 15:57:37</start>
+        <state>done</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-25 15:57:37</sys_created_on>
+        <sys_id>48eebc0ec30d8b1041fbb275e40131d2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-25 15:58:48</sys_updated_on>
+    </x_776055_snworkout_m2m_exercice_session>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 20:41:01</sys_created_on>
+        <sys_id>8e162e93c3818f90635598fdd40131e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>17da78c2c30d8b1041fbb275e40131e4</sys_name>
+        <sys_package display_value="ServiceWorkoutData" source="x_1974893_servic_0">e3c56293c3818f90635598fdd4013196</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceWorkoutData">e3c56293c3818f90635598fdd4013196</sys_scope>
+        <sys_update_name>sys_metadata_link_8e162e93c3818f90635598fdd40131e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 20:41:01</sys_updated_on>
+        <tablename>x_776055_snworkout_m2m_exercice_session</tablename>
+    </sys_metadata_link>
+</record_update>

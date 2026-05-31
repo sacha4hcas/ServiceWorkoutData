@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>490c3264c381031041fbb275e40131f7</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_776055_snworkout_m2m_exercice_category">
+    <x_776055_snworkout_m2m_exercice_category action="INSERT_OR_UPDATE">
+        <category display_value="Badminton">3a177aecc341031041fbb275e4013106</category>
+        <exercice display_value="Mur amorti précision">de2307df47f40f10f408cbb9316d4372</exercice>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-21 09:13:30</sys_created_on>
+        <sys_id>490c3264c381031041fbb275e40131f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-21 09:13:30</sys_updated_on>
+    </x_776055_snworkout_m2m_exercice_category>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 20:41:20</sys_created_on>
+        <sys_id>622666d3c3818f90635598fdd4013195</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2026-05-21 02:13:30</sys_name>
+        <sys_package display_value="ServiceWorkoutData" source="x_1974893_servic_0">e3c56293c3818f90635598fdd4013196</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceWorkoutData">e3c56293c3818f90635598fdd4013196</sys_scope>
+        <sys_update_name>sys_metadata_link_622666d3c3818f90635598fdd4013195</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 20:41:20</sys_updated_on>
+        <tablename>x_776055_snworkout_m2m_exercice_category</tablename>
+    </sys_metadata_link>
+</record_update>

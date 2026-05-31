@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>d7077aecc341031041fbb275e4013103</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_776055_snworkout_category">
+    <x_776055_snworkout_category action="INSERT_OR_UPDATE">
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-21 08:51:48</sys_created_on>
+        <sys_id>d7077aecc341031041fbb275e4013103</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-21 08:51:48</sys_updated_on>
+        <title>Proprioception</title>
+    </x_776055_snworkout_category>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 20:41:31</sys_created_on>
+        <sys_id>6d36aad3c3818f90635598fdd401313c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Proprioception</sys_name>
+        <sys_package display_value="ServiceWorkoutData" source="x_1974893_servic_0">e3c56293c3818f90635598fdd4013196</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceWorkoutData">e3c56293c3818f90635598fdd4013196</sys_scope>
+        <sys_update_name>sys_metadata_link_6d36aad3c3818f90635598fdd401313c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 20:41:31</sys_updated_on>
+        <tablename>x_776055_snworkout_category</tablename>
+    </sys_metadata_link>
+</record_update>

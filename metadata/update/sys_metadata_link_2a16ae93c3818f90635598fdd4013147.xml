@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>6af5fea6c3090b90635598fdd4013107</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_776055_snworkout_m2m_exercice_session">
+    <x_776055_snworkout_m2m_exercice_session action="INSERT_OR_UPDATE">
+        <end>2026-05-27 13:56:09</end>
+        <exercice display_value="Marche pinguin">da23c3df47f40f10f408cbb9316d43fa</exercice>
+        <order/>
+        <session display_value="Created 2026-05-27 06:42:22">bd13be22c3090b90635598fdd4013170</session>
+        <start>2026-05-27 13:54:58</start>
+        <state>done</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-27 13:54:58</sys_created_on>
+        <sys_id>6af5fea6c3090b90635598fdd4013107</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-27 13:56:09</sys_updated_on>
+    </x_776055_snworkout_m2m_exercice_session>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-29 20:41:03</sys_created_on>
+        <sys_id>2a16ae93c3818f90635598fdd4013147</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bd13be22c3090b90635598fdd4013170</sys_name>
+        <sys_package display_value="ServiceWorkoutData" source="x_1974893_servic_0">e3c56293c3818f90635598fdd4013196</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceWorkoutData">e3c56293c3818f90635598fdd4013196</sys_scope>
+        <sys_update_name>sys_metadata_link_2a16ae93c3818f90635598fdd4013147</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-29 20:41:03</sys_updated_on>
+        <tablename>x_776055_snworkout_m2m_exercice_session</tablename>
+    </sys_metadata_link>
+</record_update>
