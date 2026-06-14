@@ -16,6 +16,7 @@
  *
  * Usage:
  *   npm run backup -- dev
+ *   npm run backup -- --pdi_iteo
  *   npm run backup -- --env dev
  *
  * Those examples load dev-specific dotenv files first, then fall back to .env.
@@ -40,10 +41,31 @@ function getEnvironmentName() {
         if (arg.startsWith('--env=')) {
             return arg.slice('--env='.length);
         }
+
+        // Support shorthand like: npm run backup -- --pdi_iteo
+        // This maps to the candidate dotenv files for "pdi_iteo".
+        if (arg.startsWith('--') && arg.length > 2) {
+            return arg.slice(2);
+        }
     }
 
     const positional = args.find((arg) => !arg.startsWith('-'));
-    return positional || '';
+    if (positional) {
+        return positional;
+    }
+
+    // npm may convert unknown flags (e.g. --pdi_iteo) into env vars like:
+    // npm_config_pdi_iteo=true
+    const npmConfigFlags = Object.entries(process.env)
+        .filter(([key, value]) => key.startsWith('npm_config_') && value === 'true')
+        .map(([key]) => key.slice('npm_config_'.length))
+        .filter((name) => /^[a-z0-9_]+$/i.test(name));
+
+    if (npmConfigFlags.length === 1) {
+        return npmConfigFlags[0];
+    }
+
+    return '';
 }
 
 // ---------------------------------------------------------------------------
