@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>3f39b26f53320310fea779b0a0490e3e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_776055_snworkout_m2m_exercice_session">
+    <x_776055_snworkout_m2m_exercice_session action="INSERT_OR_UPDATE">
+        <end>2026-08-25 16:34:13</end>
+        <exercice display_value="Tenir sur un pied">9e2307df47f40f10f408cbb9316d436f</exercice>
+        <order/>
+        <session display_value="Created 2026-08-25 09:22:07">b7b63ae353320310fea779b0a0490e5f</session>
+        <start>2026-08-25 16:33:03</start>
+        <state>done</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-25 16:33:03</sys_created_on>
+        <sys_id>3f39b26f53320310fea779b0a0490e3e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-25 16:34:13</sys_updated_on>
+    </x_776055_snworkout_m2m_exercice_session>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-18 13:05:54</sys_created_on>
+        <sys_id>2bff259353538fd0fea779b0a0490e26</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b7b63ae353320310fea779b0a0490e5f</sys_name>
+        <sys_package display_value="ServiceWorkoutData" source="x_776055_wkoutdata">e3c56293c3818f90635598fdd4013196</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceWorkoutData">e3c56293c3818f90635598fdd4013196</sys_scope>
+        <sys_update_name>sys_metadata_link_2bff259353538fd0fea779b0a0490e26</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-18 13:05:54</sys_updated_on>
+        <tablename>x_776055_snworkout_m2m_exercice_session</tablename>
+    </sys_metadata_link>
+</record_update>

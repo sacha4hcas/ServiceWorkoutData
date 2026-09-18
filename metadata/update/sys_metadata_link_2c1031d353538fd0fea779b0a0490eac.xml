@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>db0faffb53f68310fea779b0a0490e1e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_776055_snworkout_m2m_exercice_session">
+    <x_776055_snworkout_m2m_exercice_session action="INSERT_OR_UPDATE">
+        <end>2026-08-26 15:07:47</end>
+        <exercice display_value="Feinte alternée">5e2307df47f40f10f408cbb9316d437a</exercice>
+        <order/>
+        <session display_value="Created 2026-08-26 08:05:05">30bee3fb53f68310fea779b0a0490e1c</session>
+        <start>2026-08-26 15:06:36</start>
+        <state>done</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-26 15:06:36</sys_created_on>
+        <sys_id>db0faffb53f68310fea779b0a0490e1e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-26 15:07:47</sys_updated_on>
+    </x_776055_snworkout_m2m_exercice_session>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-18 13:06:15</sys_created_on>
+        <sys_id>2c1031d353538fd0fea779b0a0490eac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>30bee3fb53f68310fea779b0a0490e1c</sys_name>
+        <sys_package display_value="ServiceWorkoutData" source="x_776055_wkoutdata">e3c56293c3818f90635598fdd4013196</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceWorkoutData">e3c56293c3818f90635598fdd4013196</sys_scope>
+        <sys_update_name>sys_metadata_link_2c1031d353538fd0fea779b0a0490eac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-18 13:06:15</sys_updated_on>
+        <tablename>x_776055_snworkout_m2m_exercice_session</tablename>
+    </sys_metadata_link>
+</record_update>
